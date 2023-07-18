@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akash
 - 👀 I’m interested in coding and i love to doing.
-- 🌱 I’m currently learning Mastwr in Data scinence.
+- 🌱 I’m currently learning Master in Data scinence.
 - 💞️ I’m looking to collaborate on open source project.
 - 📫 How to reach me "vishwakarmaakashav17@gmail.com".
 
