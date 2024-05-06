@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://your-image-url.com" alt="Akash's Banner">
+  <img src=""C:\MypersonalDocument\profile.png"" alt="Akash's Banner">
 </div>
 
 <h1 align="center">👋 Hi, I'm Akash</h1>
