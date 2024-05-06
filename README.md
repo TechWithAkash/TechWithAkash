@@ -1,25 +1,13 @@
-<div align="center">
-  <img src=""C:\MypersonalDocument\profile.png"" alt="Akash's Banner">
-</div>
 
-<h1 align="center">👋 Hi, I'm Akash</h1>
-<h3 align="center">A passionate coder and aspiring Data Scientist</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="Akash" /> </p>
-
-- 👀 I’m interested in coding and I love to challenge myself with new projects.
-- 🌱 I’m currently mastering Data Science, delving deep into algorithms, statistics, and machine learning models.
-- 💞️ I’m looking to collaborate on open-source projects that make a positive impact on society.
-- 📫 How to reach me: **vishwakarmaakashav17@gmail.com**
-
-<h2 align="center">Languages and Tools:</h2>
+<h1 align="center">📬 Messages from Akash</h1>
 
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> 
+  <samp>👋 Hi, I'm Akash! Nice to meet you.</samp><br>
+  <samp>👀 I’m interested in coding and I love to challenge myself with new projects.</samp><br>
+  <samp>🌱 I’m currently mastering Data Science, delving deep into algorithms, statistics, and machine learning models.</samp><br>
+  <samp>💞️ I’m looking to collaborate on open-source projects that make a positive impact on society.</samp><br>
+  <samp>📫 How to reach me: vishwakarmaakashav17@gmail.com</samp>
 </p>
 
 <h2 align="center">Connect with me:</h2>
@@ -35,4 +23,3 @@
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="Akash's GitHub" height="30" width="30" />
   </a>
 </p>
-
