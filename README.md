@@ -52,3 +52,14 @@
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechWithAkash&layout=compact&theme=dark" alt="Akash's Top Languages" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechWithAkash&layout=compact&theme=dark" alt="" />
 </p>
+<h2 align="center">🔥 Contribution Heatmap</h2>
+
+<p align="center">
+  <img src="https://github.com/TechWithAkash" alt="Contribution Heatmap" />
+</p>
+
+<h2 align="center">🐍 Snake</h2>
+
+<p align="center">
+  <img src="https://github.com/TechWithAkash" alt="Snake Game" />
+</p>
