@@ -25,15 +25,15 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-<h2 align="center">🧠 About Me</h2>
+<h2 align="">🧠 About Me</h2>
 
-<p align="center">
+
   🔭 Currently enhancing my data science skills<br>
   🌱 Learning advanced machine learning techniques<br>
   👯 Looking to collaborate on innovative data-driven projects<br>
   💬 Ask me about Python, data analysis, and statistical modeling<br>
   ⚡ Fun fact: I can analyze data faster than I can decide what to have for dinner!
-</p>
+
 
 <h2 align="center">📊 GitHub Stats</h2>
 
