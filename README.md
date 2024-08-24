@@ -1,30 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Akash+Vishwakarma!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</div>
-
-<br>
-
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&duration=4000&pause=1000&color=7AF79A&random=false&width=435&lines=Data+Science+Enthusiast;Machine+Learning+Explorer;Full+Stack+Developer;Passionate+Tech+Innovator" alt="Typing SVG" />
-</h3>
-
-<p align="center">
-  <a href="https://github.com/TechWithAkash">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Transforming+Data+into+Insights" alt="Typing SVG" />
-  </a>
-</p>
-
-<br>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" height="300" alt="Data Science Animation"/>
-</div>
-
-<br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TechWithAkash&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Akash!;Data+Science+Enthusiast...;And+Tech+Explorer...;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" /> </div> <div align="center"> <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> </div> <h3 align="center">🚀 Aspiring Data Scientist | 💻 Tech Innovator | 🌟 Continuous Learner</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=TechWithAkash&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 
