@@ -1,6 +1,18 @@
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Akash!;Data+Science+Enthusiast...;And+Tech+Explorer...;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" /> </div> <div align="center"> <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> </div> <h3 align="center">🚀 Aspiring Data Scientist | 💻 Tech Innovator | 🌟 Continuous Learner</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=TechWithAkash&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Akash!;Data+Science+Enthusiast...;And+Tech+Explorer...;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</div>
 
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+<h3 align="center">🚀 Aspiring Data Scientist | 💻 Tech Innovator | 🌟 Continuous Learner</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TechWithAkash&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -16,27 +28,21 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-<h2 align="center">🧠 About Me</h2>
+## 🧠 About Me
 
-<p align="center">
-  🔭 Currently enhancing my data science skills<br>
-  🌱 Learning advanced machine learning techniques<br>
-  👯 Looking to collaborate on innovative data-driven projects<br>
-  💬 Ask me about Python, data analysis, and statistical modeling<br>
-  ⚡ Fun fact: I can analyze data faster than I can decide what to have for dinner!
+- 🔭 Currently enhancing my data science skills
+- 🌱 Learning advanced machine learning techniques
+- 👯 Looking to collaborate on innovative data-driven projects
+- 💬 Ask me about Python, data analysis, and statistical modeling
+- ⚡ Fun fact: I can analyze data faster than I can decide what to have for dinner!
 
-</p>
-<h2 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TechWithAkash&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechWithAkash&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TechWithAkash&theme=radical" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TechWithAkash&theme=radical)
 
-<h2 align="center">🤝 Connect with Me</h2>
+## 🤝 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/akash-vishwakarma-42b0b6267" target="_blank">
@@ -50,14 +56,10 @@
   </a>
 </p>
 
-<h2 align="center">📝 Random Dev Quote</h2>
+## 📝 Random Dev Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TechWithAkash&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TechWithAkash&theme=darkhub&no-frame=true&row=1&column=7)
