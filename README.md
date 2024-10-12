@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Akash!;Data+Science+Enthusiast...;And+Tech+Explorer...;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
-https://x.com/AKASHVISHW64779/status/1844809581551358318
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
