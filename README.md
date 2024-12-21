@@ -31,7 +31,7 @@
 ## 🧠 About Me
 
 - 🔭 Currently enhancing my data science skills
-- 🌱 Learning advanced machine learning techniques
+- 🌱 Learning advanced machine learning & Deep Learning techniques
 - 👯 Looking to collaborate on innovative data-driven projects
 - 💬 Ask me about Python, data analysis, and statistical modeling
 - ⚡ Fun fact: I can analyze data faster than I can decide what to have for dinner!
