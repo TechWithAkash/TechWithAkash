@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00D9FF&size=32&lines=Hi+👋+I'm+Akash+Vishwakarma;Aspiring+Data+Scientist;AI%2FML+Enthusiast+%26+Full-Stack+Developer;Building+the+Future+with+Data!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00D9FF&size=32&lines=Hi+👋+I'm+Akash+Vishwakarma;Aspiring+Data+Scientist;+%26+Full-Stack+Developer;Building+the+Future+with+Data!" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="280"/>
 </div>
 
-<h2 align="center">📊 Aspiring Data Scientist | 🤖 AI/ML Enthusiast | 💻 Full-Stack Developer</h2>
+<h2 align="center">📊 Aspiring Data Scientist | 💻 Full-Stack Developer</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TechWithAkash&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
@@ -21,10 +21,10 @@
 const akash = {
     location: "Mumbai, India",
     education: "Computer Engineering @ SIES Graduate School Of Technology",
-    currentFocus: ["Data Science", "Machine Learning", "Statistical Analysis"],
-    projectsBuilt: ["AI-Powered Finance Tracker", "Flower Recognition System", "Health Prediction Models"],
-    passion: "Transforming data into actionable insights and building ML solutions",
-    seeking: "Data Science opportunities & collaborative projects"
+    currentFocus: ["Data Science", "Machine Learning", "Full Stack Developement"],
+    passion: "Building AI-powered solutions that solve real-world problems",
+    availableFor: "Full-time opportunities & exciting collaborations"
+
 };
 ```
 
