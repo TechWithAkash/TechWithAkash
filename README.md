@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00D9FF&size=32&lines=Hi+👋+I'm+Akash+Vishwakarma;AI%2FML+Engineer+%26+Full-Stack+Developer;Hackathon+Champion+%7C+Problem+Solver;Building+the+Future+with+Code!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00D9FF&size=32&lines=Hi+👋+I'm+Akash+Vishwakarma;Aspiring+Data+Scientist;AI%2FML+Enthusiast+%26+Full-Stack+Developer;Building+the+Future+with+Data!" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="280"/>
 </div>
 
-<h2 align="center">🚀 AI/ML Engineer | 🏆 2x Hackathon Winner | 💻 Full-Stack Developer</h2>
+<h2 align="center">📊 Aspiring Data Scientist | 🤖 AI/ML Enthusiast | 💻 Full-Stack Developer</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TechWithAkash&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
@@ -21,18 +21,18 @@
 const akash = {
     location: "Mumbai, India",
     education: "Computer Engineering @ SIES Graduate School Of Technology",
-    currentFocus: ["Artificial Intelligence", "Machine Learning", "Full-Stack Development"],
-    hackathonWins: ["DevIgnite Hackathon", "ScrollHacks Virtual Hackathon"],
-    passion: "Building AI-powered solutions that solve real-world problems",
-    availableFor: "Full-time opportunities & exciting collaborations"
+    currentFocus: ["Data Science", "Machine Learning", "Statistical Analysis"],
+    projectsBuilt: ["AI-Powered Finance Tracker", "Flower Recognition System", "Health Prediction Models"],
+    passion: "Transforming data into actionable insights and building ML solutions",
+    seeking: "Data Science opportunities & collaborative projects"
 };
 ```
 
 - 🎓 **Computer Engineering Student** with 9.0 CGPA (Diploma completed)
-- 🏆 **2x Hackathon Champion** with proven team leadership skills
-- 🤖 Specialized in **AI/ML, Deep Learning, and NLP**
-- 🚀 Built **4+ production-ready applications** with 89-95% accuracy rates
-- 💡 Passionate about **rapid prototyping** and **innovative problem-solving**
+- 📊 **Aspiring Data Scientist** passionate about extracting insights from data
+- 🤖 Specialized in **Machine Learning, Deep Learning, and Statistical Analysis**
+- 🚀 Built **4+ ML projects** with impressive accuracy rates (89-95%)
+- 💡 Experienced in **end-to-end ML pipelines** and **data-driven solutions**
 
 ---
 
@@ -93,14 +93,14 @@ const akash = {
 
 ---
 
-## 🏅 Achievements & Leadership
+## 🏅 Key Highlights & Education
 
 <div align="center">
 
-| 🏆 **Hackathon Wins** | 📊 **Project Metrics** | 🎓 **Education** |
+| 📊 **Data Science Focus** | 🔬 **Project Metrics** | 🎓 **Academic Excellence** |
 |:---:|:---:|:---:|
-| **DevIgnite Hackathon Winner** <br/> Electric Route Optimizer | **4+ Production Apps** <br/> 89-95% Accuracy Rates | **9.0 CGPA** <br/> Diploma in Computer Engineering |
-| **ScrollHacks Winner** <br/> AyushHerb AI System | **Multiple Team Leadership** <br/> Rapid Problem Solving | **Current**: BE Computer Engineering <br/> SIES Graduate School |
+| **Machine Learning Models** <br/> Statistical Analysis & Insights | **4+ ML Projects** <br/> 89-95% Accuracy Rates | **9.0 CGPA** <br/> Diploma in Computer Engineering |
+| **End-to-End ML Pipelines** <br/> Data Preprocessing to Deployment | **Advanced Techniques** <br/> Feature Engineering & Hyperparameter Tuning | **Current**: BE Computer Engineering <br/> SIES Graduate School |
 
 </div>
 
