@@ -24,7 +24,6 @@ const akash = {
     currentFocus: ["Data Science", "Machine Learning", "Full Stack Developement"],
     passion: "Building AI-powered solutions that solve real-world problems",
     availableFor: "Full-time opportunities & exciting collaborations"
-
 };
 ```
 
