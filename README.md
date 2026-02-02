@@ -1,8 +1,14 @@
-# Akash Vishwakarma
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Akash+Vishwakarma;Full-Stack+Developer;AI%2FML+Engineer;SIH+2025+Grand+Finalist;Building+Scalable+Solutions" alt="Typing SVG" />
+</div>
 
 <div align="center">
-  
-### Full-Stack Developer | AI/ML Enthusiast | Smart India Hackathon 2025 Grand Finalist
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="280" alt="Coding Animation"/>
+</div>
+
+<h2 align="center">💻 Full-Stack Developer | 🤖 AI/ML Enthusiast | 🏆 SIH 2025 Grand Finalist</h2>
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/akash-vishwakarma-42b0b6267)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/TechWithAkash)
@@ -10,6 +16,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwakarmaakashav17@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TechWithAkash&label=Profile%20Views&color=0077B5&style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/TechWithAkash?label=Followers&style=flat-square&color=0077B5)
 
 </div>
 
@@ -35,6 +42,10 @@ const akash = {
 Passionate about leveraging technology to solve real-world problems through innovative AI-powered solutions and robust software engineering practices.
 
 ---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
+</div>
 
 ## 🏆 Key Achievements
 
@@ -62,6 +73,10 @@ Passionate about leveraging technology to solve real-world problems through inno
 </table>
 
 ---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
+</div>
 
 ## 💻 Technical Expertise
 
@@ -101,6 +116,10 @@ Passionate about leveraging technology to solve real-world problems through inno
 
 ---
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
+</div>
+
 ## 💼 Professional Experience
 
 ### **Full-Stack Developer** | AIBI Street Pvt. Ltd. (Remote)
@@ -118,6 +137,10 @@ Passionate about leveraging technology to solve real-world problems through inno
 - Executed testing, debugging, and requirement analysis under senior developer mentorship, improving code quality by 25%
 
 ---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
+</div>
 
 ## 🚀 Featured Projects
 
@@ -174,6 +197,10 @@ Passionate about leveraging technology to solve real-world problems through inno
 
 ---
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
+</div>
+
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -189,7 +216,20 @@ Passionate about leveraging technology to solve real-world problems through inno
 
 </div>
 
+### 📈 Contribution Activity
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TechWithAkash&theme=github-compact&bg_color=ffffff&color=0077b5&line=0077b5&point=0366d6&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TechWithAkash&theme=flat&no-frame=true&margin-w=10&margin-h=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies" />
+</div>
+
 ---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
+</div>
 
 ## 🎓 Education & Certifications
 
@@ -209,6 +249,10 @@ Passionate about leveraging technology to solve real-world problems through inno
 
 ---
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
+</div>
+
 ## 📫 Get In Touch
 
 <div align="center">
@@ -227,11 +271,19 @@ I'm passionate about building scalable solutions and solving complex problems th
 ---
 
 <div align="center">
-  
+
+---
+
+### 💭 Developer Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+---
+
 ### 💡 *"First, solve the problem. Then, write the code."* – John Johnson
 
-**⭐ If you find my projects interesting, consider starring the repositories!**
+**⭐ If my work resonates with you, consider starring the repositories!**  
+**🤝 Open to collaborations, internships, and exciting opportunities**
 
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=100&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=footer" alt="Footer Wave"/>
 
 </div>
