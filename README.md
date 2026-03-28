@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="280" alt="Coding Animation"/>
 </div>
 
-<h2 align="center">💻 Full-Stack Developer | 🤖 AI/ML Enthusiast | 🏆 SIH 2025 Grand Finalist</h2>
+<h2 align="center">💻 Full-Stack Developer | 🤖 AI Engineer | 🏆 SIH 2025 Grand Finalist</h2>
 
 <div align="center">
 
@@ -204,25 +204,51 @@ Passionate about leveraging technology to solve real-world problems through inno
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TechWithAkash&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechWithAkash&layout=compact&langs_count=8&theme=default&hide_border=true" alt="Top Languages"/>
+
+  <!-- GitHub Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TechWithAkash&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
+
+  <!-- Top Languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechWithAkash&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+<br/>
 
 <div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TechWithAkash&theme=default&hide_border=true)
+
+  <!-- Real-Time Streak -->
+  <img src="https://streak-stats.demolab.com?user=TechWithAkash&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 
 </div>
+
+---
 
 ### 📈 Contribution Activity
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TechWithAkash&theme=github-compact&bg_color=ffffff&color=0077b5&line=0077b5&point=0366d6&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TechWithAkash&theme=flat&no-frame=true&margin-w=10&margin-h=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies" />
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TechWithAkash&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=38bdae&point=f778ba&area=true&hide_border=true"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=TechWithAkash&theme=onestar&no-frame=true&margin-w=10&margin-h=10&column=7"/>
+
+</div>
+
+---
+
+<div align="center">
+
+  <!-- Profile Views (Feels Real-Time) -->
+  <img src="https://komarev.com/ghpvc/?username=TechWithAkash&label=Profile%20Views&color=0e75b6&style=flat"/>
+
 </div>
 
 ---
