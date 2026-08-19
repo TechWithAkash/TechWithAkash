@@ -37,7 +37,7 @@ const akash = {
 };
 ```
 
-**Computer Engineering student** with **9.0 CGPA** and proven track record in building scalable, production-ready applications. Recognized as **Smart India Hackathon 2025 Grand Finalist** (Top 5 nationwide) under Ministry of Earth Sciences. Experienced in delivering full-stack solutions with measurable business impact—optimized systems to achieve **99.9% uptime**, **40% performance improvements**, and **35% user engagement growth**.
+**Computer Engineering student** with **8.36 CGPA** and proven track record in building scalable, production-ready applications. Recognized as **Smart India Hackathon 2025 Grand Finalist** (Top 5 nationwide) under Ministry of Earth Sciences. Experienced in delivering full-stack solutions with measurable business impact—optimized systems to achieve **99.9% uptime**, **40% performance improvements**, and **35% user engagement growth**.
 
 Passionate about leveraging technology to solve real-world problems through innovative AI-powered solutions and robust software engineering practices.
 
