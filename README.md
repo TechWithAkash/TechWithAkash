@@ -1,27 +1,17 @@
-<!--
-  Design system — "Midnight Aurora"
-  bg #090D16 / #0D1117 · text #C9D1D9 · indigo #6366F1 · cyan #22D3EE · violet #A78BFA · gold #F5B700 (wins only)
-  The animated hero lives in ./assets/hero.svg (pure SVG + CSS, no external service).
--->
-
-<!-- ═════════════════════════ HERO ═════════════════════════ -->
 <p align="center">
-  <a href="https://akashv-alpha.vercel.app">
-    <img src="./assets/hero.svg" width="100%" alt="Akash Vishwakarma — AI Full-Stack Developer, SIH 2025 Grand Finalist, 8× hackathon winner" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/neofetch_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/neofetch_light.svg">
+    <img src="./assets/neofetch_dark.svg" width="100%" alt="Akash Vishwakarma: AI Full-Stack Developer, ASCII portrait with role, stack, shipped products, impact and contact details" />
+  </picture>
 </p>
 
 <p align="center">
-  <a href="https://akashv-alpha.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=22D3EE" /></a>
-  <a href="https://linkedin.com/in/akashvishwakarma2004"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE" /></a>
-  <a href="https://leetcode.com/u/vishwakarmaakashav17/"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=22D3EE" /></a>
-  <a href="https://www.kaggle.com/akash9987"><img src="https://img.shields.io/badge/Kaggle-0D1117?style=for-the-badge&logo=kaggle&logoColor=22D3EE" /></a>
-  <a href="mailto:vishwakarmaakashav17@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=22D3EE" /></a>
-</p>
-
-<!-- ═════════════════════════ NEOFETCH CARD ═════════════════════════ -->
-<p align="center">
-  <img src="./assets/neofetch.svg" width="100%" alt="Terminal-style profile card: ASCII portrait of Akash Vishwakarma with role, stack, shipped products, impact and contact details" />
+  <a href="https://akashv-alpha.vercel.app"><img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/akashvishwakarma2004"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/vishwakarmaakashav17/"><img src="https://img.shields.io/badge/LeetCode-161B22?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/akash9987"><img src="https://img.shields.io/badge/Kaggle-161B22?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="mailto:vishwakarmaakashav17@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <br/>
@@ -126,7 +116,7 @@ AI budgeting with **Gemini** and **10-language** support. Live with **50+ active
 🏆 **PitchCraft 2025 — 1st** of 50+ teams
 
 <a href="https://mywealthwise.in"><img src="https://img.shields.io/badge/Live-22D3EE?style=flat-square&logo=vercel&logoColor=0D1117" /></a>
-<a href="https://github.com/TechWithAkash/wealthwise-app"><img src="https://img.shields.io/badge/Code-0D1117?style=flat-square&logo=github&logoColor=22D3EE" /></a>
+<a href="https://github.com/TechWithAkash/wealthwise-app"><img src="https://img.shields.io/badge/Code-0D1117?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -139,7 +129,7 @@ Reverse-engineers **any website's design system** into a ready-to-use `design.md
 `Next.js 15` `Playwright` `Groq` `Llama 3.3`
 
 <a href="https://designrip.in"><img src="https://img.shields.io/badge/Live-22D3EE?style=flat-square&logo=vercel&logoColor=0D1117" /></a>
-<a href="https://github.com/TechWithAkash/designrip"><img src="https://img.shields.io/badge/Code-0D1117?style=flat-square&logo=github&logoColor=22D3EE" /></a>
+<a href="https://github.com/TechWithAkash/designrip"><img src="https://img.shields.io/badge/Code-0D1117?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
@@ -153,7 +143,7 @@ Tackles India's **45M+ pending court cases** with a **6-node agentic pipeline** 
 
 `FastAPI` `Next.js` `Groq` `FAISS` `scikit-learn`
 
-<a href="https://github.com/TechWithAkash/NITI-AI"><img src="https://img.shields.io/badge/Code-0D1117?style=flat-square&logo=github&logoColor=22D3EE" /></a>
+<a href="https://github.com/TechWithAkash/NITI-AI"><img src="https://img.shields.io/badge/Code-0D1117?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -192,7 +182,7 @@ CNN with transfer learning — **89% accuracy across 102 species**, served from 
 `TensorFlow` `Keras` `Flask`
 
 <a href="https://bloom-ai-bice.vercel.app"><img src="https://img.shields.io/badge/Live-22D3EE?style=flat-square&logo=vercel&logoColor=0D1117" /></a>
-<a href="https://github.com/TechWithAkash/BloomAI"><img src="https://img.shields.io/badge/Code-0D1117?style=flat-square&logo=github&logoColor=22D3EE" /></a>
+<a href="https://github.com/TechWithAkash/BloomAI"><img src="https://img.shields.io/badge/Code-0D1117?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
@@ -228,16 +218,16 @@ CNN with transfer learning — **89% accuracy across 102 species**, served from 
 </p>
 <p align="center">
   <b>AI & Agentic Systems</b><br/>
-  <img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=langchain&logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge&logo=langgraph&logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Gemini-0D1117?style=for-the-badge&logo=googlegemini&logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/Groq-0D1117?style=for-the-badge&logoColor=22D3EE" /><br/>
-  <img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FAISS-0D1117?style=for-the-badge&logo=meta&logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/ChromaDB-0D1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/LangChain-161B22?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-161B22?style=for-the-badge&logo=langgraph&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-161B22?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gemini-161B22?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-161B22?style=for-the-badge&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/RAG-161B22?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FAISS-161B22?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-161B22?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/scikit--learn-161B22?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-161B22?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 <p align="center">
   <b>Data, Cloud & Tooling</b><br/>
