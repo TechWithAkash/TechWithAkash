@@ -7,9 +7,16 @@
 @keyframes eg{0%{opacity:0}55%{opacity:1}72%{opacity:0}}
 .br{animation:br 7s ease-in-out infinite alternate}
 @keyframes br{from{transform:translateY(0)}to{transform:translateY(1.6px)}}
-@media (prefers-reduced-motion:reduce){.ec,.ex,.eg,.br{animation:none}}
+.r{animation:rin .6s ease-out backwards}
+@keyframes rin{from{opacity:0;transform:translateX(8px)}to{opacity:1;transform:none}}
+.cur{animation:cur 1.1s step-end infinite}
+@keyframes cur{50%{opacity:0}}
+.sc{animation:sc 7s ease-in-out infinite}
+@keyframes sc{0%{transform:translateY(0);opacity:0}10%{opacity:1}70%{transform:translateY(500px);opacity:1}80%,100%{transform:translateY(500px);opacity:0}}
+@media (prefers-reduced-motion:reduce){.ec,.ex,.eg,.br,.r,.cur,.sc{animation:none}.sc{opacity:0}}
 </style>
 <rect width="980" height="560" rx="12" fill="#f6f8fa"/>
+<defs><linearGradient id="sg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#24292f" stop-opacity="0"/><stop offset="0.5" stop-color="#24292f" stop-opacity="0.13"/><stop offset="1" stop-color="#24292f" stop-opacity="0"/></linearGradient></defs>
 <g class="br">
 <text x="30" y="46.8" class="m p">                                       -</text>
 <text x="30" y="57.6" class="m p">                          +#%@%%%%%##*#8##%@%##*~</text>
@@ -62,27 +69,28 @@
 <text x="30" y="500.4" class="m p">    #%@#8#@@#%@%%%%#88#%%@@@%*+%*...:..:-~~~*%%*+*##**%@%#8%%*%@@%@@%#@@@@@@%8*####8</text>
 <text x="30" y="511.2" class="m p"> 8%@@%%8%@@%%@@%%@%###%#8@@@@~.-*:+:...   .8%#*@@@*..+##8*88=@@@%@%%#%@@@@@@@%@@%*#@</text>
 </g>
-<text x="540" y="48.0" class="m i">akash@techwithakash <tspan class="d">──────────────────────────────</tspan></text>
-<text x="540" y="65.6" class="m i"><tspan class="k">Role</tspan>:<tspan class="d"> ..................... </tspan><tspan class="v">AI Full-Stack Developer</tspan></text>
-<text x="540" y="83.2" class="m i"><tspan class="k">Now</tspan>:<tspan class="d"> ........................ </tspan><tspan class="v">Intern @ Brainheaters</tspan></text>
-<text x="540" y="100.8" class="m i"><tspan class="k">Education</tspan>:<tspan class="d"> ...... </tspan><tspan class="v">SIES GST, BE Comp Eng · CGPA 8.36</tspan></text>
-<text x="540" y="118.4" class="m i"><tspan class="k">Status</tspan>:<tspan class="d"> .................... </tspan><tspan class="v">Open to SDE &amp; AI roles</tspan></text>
-<text x="540" y="153.6" class="m i"><tspan class="k">Languages.Code</tspan>:<tspan class="d"> .... </tspan><tspan class="v">Python, TypeScript, JavaScript</tspan></text>
-<text x="540" y="171.2" class="m i"><tspan class="k">Frameworks</tspan>:<tspan class="d"> .. </tspan><tspan class="v">Next.js, FastAPI, Node, React Native</tspan></text>
-<text x="540" y="188.8" class="m i"><tspan class="k">AI.Agents</tspan>:<tspan class="d"> .. </tspan><tspan class="v">LangChain, LangGraph, RAG, multi-agent</tspan></text>
-<text x="540" y="206.4" class="m i"><tspan class="k">Hobbies</tspan>:<tspan class="d"> ............... </tspan><tspan class="v">Cricket, Badminton, Travel</tspan></text>
-<text x="540" y="241.6" class="m i">Shipped <tspan class="d">──────────────────────────────────────────</tspan></text>
-<text x="540" y="259.2" class="m i"><tspan class="k">WealthWise</tspan>:<tspan class="d"> ........... </tspan><tspan class="v">mywealthwise.in · 50+ users</tspan></text>
-<text x="540" y="276.8" class="m i"><tspan class="k">DesignRip</tspan>:<tspan class="d"> ............. </tspan><tspan class="v">designrip.in · 5 countries</tspan></text>
-<text x="540" y="294.4" class="m i"><tspan class="k">PDFZippy</tspan>:<tspan class="d"> ............................. </tspan><tspan class="v">pdfzippy.me</tspan></text>
-<text x="540" y="312.0" class="m i"><tspan class="k">NITI.AI</tspan>:<tspan class="d"> ................... </tspan><tspan class="v">API responses &lt; 200 ms</tspan></text>
-<text x="540" y="347.2" class="m i">Impact <tspan class="d">───────────────────────────────────────────</tspan></text>
-<text x="540" y="364.8" class="m i"><tspan class="k">Students.Served</tspan>:<tspan class="d"> .......... </tspan><tspan class="v">18,000+ on Brainheaters</tspan></text>
-<text x="540" y="382.4" class="m i"><tspan class="k">Hackathon.Wins</tspan>:<tspan class="d"> ...... </tspan><tspan class="v">8× · SIH 2025 Grand Finalist</tspan></text>
-<text x="540" y="417.6" class="m i">Contact <tspan class="d">──────────────────────────────────────────</tspan></text>
-<text x="540" y="435.2" class="m i"><tspan class="k">Portfolio</tspan>:<tspan class="d"> ................ </tspan><tspan class="v">akashv-alpha.vercel.app</tspan></text>
-<text x="540" y="452.8" class="m i"><tspan class="k">LinkedIn</tspan>:<tspan class="d"> .................... </tspan><tspan class="v">akashvishwakarma2004</tspan></text>
-<text x="540" y="470.4" class="m i"><tspan class="k">LeetCode</tspan>:<tspan class="d"> .................... </tspan><tspan class="v">vishwakarmaakashav17</tspan></text>
-<text x="540" y="488.0" class="m i"><tspan class="k">Kaggle</tspan>:<tspan class="d"> ................................. </tspan><tspan class="v">akash9987</tspan></text>
-<text x="540" y="505.6" class="m i"><tspan class="k">Email</tspan>:<tspan class="d"> ............. </tspan><tspan class="v">vishwakarmaakashav17@gmail.com</tspan></text>
+<rect class="sc" x="30" y="30" width="480" height="46" fill="url(#sg)"/>
+<text x="540" y="48.0" class="m i r" style="animation-delay:0.25s">akash@techwithakash <tspan class="d">──────────────────────────────</tspan><tspan class="cur v"> █</tspan></text>
+<text x="540" y="65.6" class="m i r" style="animation-delay:0.32s"><tspan class="k">Role</tspan>:<tspan class="d"> ..................... </tspan><tspan class="v">AI Full-Stack Developer</tspan></text>
+<text x="540" y="83.2" class="m i r" style="animation-delay:0.39s"><tspan class="k">Now</tspan>:<tspan class="d"> ........................ </tspan><tspan class="v">Intern @ Brainheaters</tspan></text>
+<text x="540" y="100.8" class="m i r" style="animation-delay:0.46s"><tspan class="k">Education</tspan>:<tspan class="d"> ...... </tspan><tspan class="v">SIES GST, BE Comp Eng · CGPA 8.36</tspan></text>
+<text x="540" y="118.4" class="m i r" style="animation-delay:0.53s"><tspan class="k">Status</tspan>:<tspan class="d"> .................... </tspan><tspan class="v">Open to SDE &amp; AI roles</tspan></text>
+<text x="540" y="153.6" class="m i r" style="animation-delay:0.67s"><tspan class="k">Languages.Code</tspan>:<tspan class="d"> .... </tspan><tspan class="v">Python, TypeScript, JavaScript</tspan></text>
+<text x="540" y="171.2" class="m i r" style="animation-delay:0.74s"><tspan class="k">Frameworks</tspan>:<tspan class="d"> .. </tspan><tspan class="v">Next.js, FastAPI, Node, React Native</tspan></text>
+<text x="540" y="188.8" class="m i r" style="animation-delay:0.81s"><tspan class="k">AI.Agents</tspan>:<tspan class="d"> .. </tspan><tspan class="v">LangChain, LangGraph, RAG, multi-agent</tspan></text>
+<text x="540" y="206.4" class="m i r" style="animation-delay:0.88s"><tspan class="k">Hobbies</tspan>:<tspan class="d"> ............... </tspan><tspan class="v">Cricket, Badminton, Travel</tspan></text>
+<text x="540" y="241.6" class="m i r" style="animation-delay:1.02s">Shipped <tspan class="d">──────────────────────────────────────────</tspan></text>
+<text x="540" y="259.2" class="m i r" style="animation-delay:1.09s"><tspan class="k">WealthWise</tspan>:<tspan class="d"> ........... </tspan><tspan class="v">mywealthwise.in · 50+ users</tspan></text>
+<text x="540" y="276.8" class="m i r" style="animation-delay:1.16s"><tspan class="k">DesignRip</tspan>:<tspan class="d"> ............. </tspan><tspan class="v">designrip.in · 5 countries</tspan></text>
+<text x="540" y="294.4" class="m i r" style="animation-delay:1.23s"><tspan class="k">PDFZippy</tspan>:<tspan class="d"> ............................. </tspan><tspan class="v">pdfzippy.me</tspan></text>
+<text x="540" y="312.0" class="m i r" style="animation-delay:1.30s"><tspan class="k">NITI.AI</tspan>:<tspan class="d"> ................... </tspan><tspan class="v">API responses &lt; 200 ms</tspan></text>
+<text x="540" y="347.2" class="m i r" style="animation-delay:1.44s">Impact <tspan class="d">───────────────────────────────────────────</tspan></text>
+<text x="540" y="364.8" class="m i r" style="animation-delay:1.51s"><tspan class="k">Students.Served</tspan>:<tspan class="d"> .......... </tspan><tspan class="v">18,000+ on Brainheaters</tspan></text>
+<text x="540" y="382.4" class="m i r" style="animation-delay:1.58s"><tspan class="k">Hackathon.Wins</tspan>:<tspan class="d"> ...... </tspan><tspan class="v">8× · SIH 2025 Grand Finalist</tspan></text>
+<text x="540" y="417.6" class="m i r" style="animation-delay:1.72s">Contact <tspan class="d">──────────────────────────────────────────</tspan></text>
+<text x="540" y="435.2" class="m i r" style="animation-delay:1.79s"><tspan class="k">Portfolio</tspan>:<tspan class="d"> ................ </tspan><tspan class="v">akashv-alpha.vercel.app</tspan></text>
+<text x="540" y="452.8" class="m i r" style="animation-delay:1.86s"><tspan class="k">LinkedIn</tspan>:<tspan class="d"> .................... </tspan><tspan class="v">akashvishwakarma2004</tspan></text>
+<text x="540" y="470.4" class="m i r" style="animation-delay:1.93s"><tspan class="k">LeetCode</tspan>:<tspan class="d"> .................... </tspan><tspan class="v">vishwakarmaakashav17</tspan></text>
+<text x="540" y="488.0" class="m i r" style="animation-delay:2.00s"><tspan class="k">Kaggle</tspan>:<tspan class="d"> ................................. </tspan><tspan class="v">akash9987</tspan></text>
+<text x="540" y="505.6" class="m i r" style="animation-delay:2.07s"><tspan class="k">Email</tspan>:<tspan class="d"> ............. </tspan><tspan class="v">vishwakarmaakashav17@gmail.com</tspan></text>
 </svg>
