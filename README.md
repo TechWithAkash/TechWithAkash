@@ -1,315 +1,273 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Akash+Vishwakarma;Full-Stack+Developer;AI%2FML+Engineer;SIH+2025+Grand+Finalist;Building+Scalable+Solutions" alt="Typing SVG" />
-</div>
+<!--
+  Design system — "Midnight Aurora"
+  bg #0D1117 · surface #161B22 · text #C9D1D9 · accent-1 #6366F1 (indigo) · accent-2 #22D3EE (cyan) · gold #F5B700 (awards only)
+  Every card, badge and stat below uses these tokens so the page reads as one system.
+-->
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="280" alt="Coding Animation"/>
-</div>
+<!-- ═════════════════════════ HERO ═════════════════════════ -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:6366F1,50:3B82F6,100:22D3EE&text=Akash%20Vishwakarma&fontColor=FFFFFF&fontSize=58&fontAlignY=36&desc=Full-Stack%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20SIH%202025%20Grand%20Finalist&descSize=18&descAlignY=58&animation=fadeIn" alt="Akash Vishwakarma" />
+</p>
 
-<h2 align="center">💻 Full-Stack Developer | 🤖 AI Engineer | 🏆 SIH 2025 Grand Finalist</h2>
+<p align="center">
+  <a href="https://github.com/TechWithAkash">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=640&lines=I+ship+AI+products+end-to-end+%E2%80%94+model+to+UI;Next.js+%C2%B7+Node+%C2%B7+Python+%C2%B7+TensorFlow;Top+5+nationwide+at+Smart+India+Hackathon+2025;Open+to+SDE+%26+AI+Engineering+roles" alt="Typing intro" />
+  </a>
+</p>
 
-<div align="center">
+<p align="center">
+  <a href="https://akashv-alpha.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=22D3EE" /></a>
+  <a href="https://linkedin.com/in/akash-vishwakarma-42b0b6267"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE" /></a>
+  <a href="https://leetcode.com/u/vishwakarmaakashav17/"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=22D3EE" /></a>
+  <a href="mailto:vishwakarmaakashav17@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=22D3EE" /></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/akash-vishwakarma-42b0b6267)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/TechWithAkash)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/vishwakarmaakashav17/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwakarmaakashav17@gmail.com)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TechWithAkash&label=profile%20views&color=6366F1&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/TechWithAkash?label=followers&style=flat-square&color=6366F1&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/status-open%20to%20work-22D3EE?style=flat-square&labelColor=0D1117" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=TechWithAkash&label=Profile%20Views&color=0077B5&style=flat-square)
-![GitHub Followers](https://img.shields.io/github/followers/TechWithAkash?label=Followers&style=flat-square&color=0077B5)
+<br/>
 
-</div>
-
----
-
-## 👨‍💻 About Me
-
-```javascript
-const akash = {
-    education: "BE Computer Engineering @ SIES Graduate School of Technology",
-    cgpa: "9.0/10.0",
-    location: "Mumbai, India",
-    experience: "7+ months Full-Stack Development",
-    specialization: ["Full-Stack Development", "AI/ML Engineering", "System Design"],
-    currentlyExploring: ["Cloud Architecture", "Microservices", "Advanced ML Pipelines"],
-    achievements: ["SIH 2025 Grand Finalist (Top 5 Nationwide)", "Multiple Hackathon Winner"],
-    openTo: "Software Engineering Internships & Full-Time Opportunities"
-};
-```
-
-**Computer Engineering student** with **8.36 CGPA** and proven track record in building scalable, production-ready applications. Recognized as **Smart India Hackathon 2025 Grand Finalist** (Top 5 nationwide) under Ministry of Earth Sciences. Experienced in delivering full-stack solutions with measurable business impact—optimized systems to achieve **99.9% uptime**, **40% performance improvements**, and **35% user engagement growth**.
-
-Passionate about leveraging technology to solve real-world problems through innovative AI-powered solutions and robust software engineering practices.
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
-</div>
-
-## 🏆 Key Achievements
-
+<!-- ═════════════════════════ ABOUT ═════════════════════════ -->
 <table>
 <tr>
-<td width="50%">
+<td width="58%" valign="top">
 
-### 🥇 Competition Success
-- **SIH 2025 Grand Finalist** - Top 5 nationwide (500+ teams)
-- **CodeByte 2.0 Winner** - 1st place, TECH ZEPHYR 2026
-- **PitchCraft 2025 Winner** - 1st place among 50+ teams
-- **Anveshana 2025** - Top 40 from 1,300+ national entries
+### ⚡ About me
+
+I'm a **Computer Engineering student** at SIES GST, Mumbai, who likes taking an idea all the way to a **deployed product** — data pipeline, model, API, and the interface people actually touch.
+
+- 🏆 **Smart India Hackathon 2025 Grand Finalist** — Top 5 nationwide (Ministry of Earth Sciences)
+- 💼 **7+ months** shipping production full-stack code at AIBI Street
+- 🚀 Live products used by **15K+** and **500+** users
+- 🔭 Exploring **cloud architecture, microservices & LLM agents**
+- 🎯 Looking for **SDE / AI Engineering** internships & full-time roles
 
 </td>
-<td width="50%">
+<td width="42%" valign="top">
 
-### 💼 Professional Impact
-- **99.9% System Uptime** - Production deployment
-- **40% Query Optimization** - Database performance
-- **35% User Engagement** - UX improvements
-- **500+ Active Users** - On WealthWise platform
+```ts
+const akash = {
+  based:    "Mumbai, India 🇮🇳",
+  degree:   "BE Computer Engg · CGPA 9.0",
+  focus:    ["Full-Stack", "AI/ML", "System Design"],
+  shipping: ["Next.js", "Node", "Python", "TF"],
+  wins:     ["SIH '25 Finalist", "CodeByte 2.0",
+             "PitchCraft '25"],
+  coffee:   Infinity,
+};
+```
 
 </td>
 </tr>
 </table>
 
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
-</div>
-
-## 💻 Technical Expertise
-
-### **Core Programming**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### **Full-Stack Development**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### **AI/ML & Data Science**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### **Databases & Cloud**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### **DevOps & Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
-</div>
-
-## 💼 Professional Experience
-
-### **Full-Stack Developer** | AIBI Street Pvt. Ltd. (Remote)
-*January 2024 – August 2024*
-
-- Architected and deployed **Memewarzz**, a full-stack social media platform serving **15K+ users** using Next.js, Node.js, and MongoDB with **99.9% uptime**
-- Engineered MongoDB schemas with advanced indexing strategies, optimizing query performance from **800ms to 480ms** (40% improvement) for 10M+ document collections
-- Developed **10+ production-grade RESTful APIs** with JWT authentication, rate limiting, and comprehensive error handling following enterprise security standards
-- Collaborated in Agile team of 4 engineers, implementing CI/CD workflows with Git version control, conducting code reviews, and participating in sprint planning
-
-### **Software Development Intern** | Sumago Infotech Pvt. Ltd.
-*July 2023 – August 2023*
-
-- Completed intensive 6-week industrial training focused on Learning Management System (LMS) architecture and SDLC best practices
-- Executed testing, debugging, and requirement analysis under senior developer mentorship, improving code quality by 25%
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
-</div>
-
-## 🚀 Featured Projects
-
-### **WealthWise** - AI-Powered Financial Planning Platform
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://wealthwise.example.com) [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/TechWithAkash)
-
-**Tech Stack:** Next.js · Node.js · MongoDB · Gemini API · Tailwind CSS · ShadCN/UI
-
-- Built end-to-end financial planning SaaS platform serving **500+ active users** with **95% uptime**
-- Integrated **Google Gemini AI** for personalized budget recommendations, reducing manual planning time by **70%**
-- Implemented **JWT authentication**, role-based access control, and encrypted data storage following security best practices
-- Architected scalable backend with MongoDB Atlas, connection pooling, and automated backups handling **10K+ monthly transactions**
-- Developed i18n framework supporting **10 Indian languages**, increasing user base by **60%** across demographics
-
-**Achievement:** 🏆 **PitchCraft 2025 Winner** - 1st place among 50+ teams for business viability and innovation
-
----
-
-### **BloomAI** - Intelligent Flower Recognition System
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/TechWithAkash)
-
-**Tech Stack:** TensorFlow · Keras · Flask · Python · CNN · Oxford Flower Dataset
-
-- Designed and trained **CNN model** achieving **89% classification accuracy** across **102 flower species**
-- Developed Flask-based web application with real-time image recognition and interactive user interface
-- Implemented data augmentation and transfer learning techniques to optimize model performance
-- Deployed production-ready ML inference system with <2s response time
-
----
-
-### **Diamond Price Prediction System**
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/TechWithAkash)
-
-**Tech Stack:** Python · Scikit-learn · MLflow · Pandas · NumPy
-
-- Built regression model predicting diamond prices with **95% accuracy** using advanced feature engineering
-- Implemented complete ML pipeline with **MLflow** for experiment tracking, ensuring reproducibility and scalability
-- Applied **GridSearchCV** for hyperparameter optimization and cross-validation for model robustness
-- Developed comprehensive preprocessing pipeline handling missing values, outliers, and feature transformations
-
----
-
-### **PRAMAN.AI** - Climate Displacement Early Warning System
-[![SIH 2025](https://img.shields.io/badge/SIH_2025-Grand_Finalist-gold?style=flat-square)](https://github.com/TechWithAkash)
-
-**Tech Stack:** Next.js · AI/ML · Real-time Analytics
-
-- **Smart India Hackathon 2025 Grand Finalist** - Ranked **Top 5 nationwide** among 500+ teams
-- Developed integrated platform for climate displacement prediction using social media analytics and geospatial data
-- Built under **Ministry of Earth Sciences** for disaster management and humanitarian response
-- Implemented real-time data processing and predictive modeling for early warning systems
-
-**Achievement:** 🏆 **CodeByte 2.0 Winner** - 1st place at TECH ZEPHYR 2026, Lokmanya Tilak College of Engineering
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
-</div>
-
-## 📊 GitHub Statistics
-
+<!-- ═════════════════════════ IMPACT STRIP ═════════════════════════ -->
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TechWithAkash&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
-
-  <!-- Top Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechWithAkash&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+| 🏅 **Top 5** | 👥 **15K+** | ⚡ **40%** | 🟢 **99.9%** | 🧠 **89%** |
+|:---:|:---:|:---:|:---:|:---:|
+| SIH 2025, 500+ teams | users on Memewarzz | faster MongoDB queries | production uptime | CNN accuracy, 102 classes |
 
 </div>
 
+<!-- ═════════════════════════ STACK ═════════════════════════ -->
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <b>Languages</b><br/>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,c,mysql&theme=dark" />
+</p>
+<p align="center">
+  <b>Frontend & Backend</b><br/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express,flask,django&theme=dark" />
+</p>
+<p align="center">
+  <b>AI / ML & Data</b><br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch&theme=dark" />
+  <img height="48" src="https://img.shields.io/badge/Keras-0D1117?style=for-the-badge&logo=keras&logoColor=22D3EE" />
+  <img height="48" src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=22D3EE" />
+  <img height="48" src="https://img.shields.io/badge/MLflow-0D1117?style=for-the-badge&logo=mlflow&logoColor=22D3EE" />
+</p>
+<p align="center">
+  <b>Data, Cloud & DevOps</b><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,docker,githubactions,git,vercel,postman&theme=dark" />
+</p>
+
+<!-- ═════════════════════════ PROJECTS ═════════════════════════ -->
+<h2 align="center">🚀 Featured Work</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💰 WealthWise
+<sub>AI-powered personal finance SaaS</sub>
+
+AI budget recommendations with **Gemini**, JWT + RBAC auth, and i18n across **10 Indian languages**. **500+ active users**, 10K+ monthly transactions.
+
+`Next.js` `Node` `MongoDB` `Gemini` `ShadCN`
+
+🏆 **PitchCraft 2025 — 1st place** of 50+ teams
+
+<a href="https://github.com/TechWithAkash/wealthwise-app"><img src="https://img.shields.io/badge/Code-0D1117?style=flat-square&logo=github&logoColor=22D3EE" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🌍 PRAMAN.AI
+<sub>Climate-displacement early warning system</sub>
+
+Predicts climate-driven displacement from social-media signals and geospatial data, with real-time analytics for disaster response teams.
+
+`Next.js` `ML` `Geospatial` `Real-time`
+
+🏆 **SIH 2025 Grand Finalist** — Top 5 nationwide
+
+<img src="https://img.shields.io/badge/Ministry%20of%20Earth%20Sciences-0D1117?style=flat-square&logoColor=22D3EE" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌸 BloomAI
+<sub>Flower species recognition</sub>
+
+CNN with transfer learning and augmentation — **89% accuracy across 102 species**, served from Flask in **under 2 s** per image.
+
+`TensorFlow` `Keras` `Flask` `CNN`
+
+<a href="https://bloom-ai-bice.vercel.app"><img src="https://img.shields.io/badge/Live-22D3EE?style=flat-square&logo=vercel&logoColor=0D1117" /></a>
+<a href="https://github.com/TechWithAkash/BloomAI"><img src="https://img.shields.io/badge/Code-0D1117?style=flat-square&logo=github&logoColor=22D3EE" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 DesignRip
+<sub>Website → design blueprint</sub>
+
+Turns any website into a clean Markdown design blueprint — colors, type, spacing, components — ready to hand to a designer or an AI agent.
+
+`HTML` `JS` `Design Systems`
+
+<a href="https://www.designrip.in"><img src="https://img.shields.io/badge/Live-22D3EE?style=flat-square&logo=vercel&logoColor=0D1117" /></a>
+<a href="https://github.com/TechWithAkash/designrip"><img src="https://img.shields.io/badge/Code-0D1117?style=flat-square&logo=github&logoColor=22D3EE" /></a>
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🧪 More things I've shipped →</b></summary>
 <br/>
 
-<div align="center">
+| Project | What it is | |
+|---|---|---|
+| 💎 **Diamond Price Prediction** | Regression pipeline, 95% accuracy, MLflow tracking + GridSearchCV | [Live](https://diamondpriceprediction.vercel.app) · [Code](https://github.com/TechWithAkash/DiamondPricePrediction) |
+| 🧾 **QueueFlow** | Token queues for clinic front desks — live waiting-room TV + phone view | [Live](https://queueflow-umber.vercel.app) · [Code](https://github.com/TechWithAkash/QueueFlow) |
+| 🛡️ **S.H.I.E.L.D.** | Gamified AI career planner — LLaMA-3.3 (Groq) generates a personal roadmap | [Live](https://shield-liard.vercel.app) · [Code](https://github.com/TechWithAkash/SHIELD-AI) |
+| 🧭 **SAARTHI.AI** | Adaptive health-risk tracking — FastAPI, Next.js, React Native | [Live](https://saarthi-ai-lovat.vercel.app) · [Code](https://github.com/TechWithAkash/SAARTHI.AI) |
+| 🛰️ **TerraSense** | Nature-intelligence platform, 55/55 backend tests passing | [Live](https://terra-sense-mu.vercel.app) · [Code](https://github.com/TechWithAkash/TerraSense) |
+| 👁️ **DeepSentinel** | AI-generated content & deepfake detection (HackHive 2.0) | [Live](https://deep-sentinel.vercel.app) · [Code](https://github.com/TechWithAkash/DeepSentinel) |
+| 📄 **ResumeRank AI** | Ranks a batch of resumes against a job description | [Live](https://resume-rank-ai-zeta.vercel.app) · [Code](https://github.com/TechWithAkash/resume-rank-ai) |
+| 📊 **StatFlow AI** | Survey CSV/Excel → insights in minutes, live WebSocket progress | [Live](https://statflowai.vercel.app) · [Code](https://github.com/TechWithAkash/STATFLOW-AI---STATATHON-2025) |
 
-  <!-- Real-Time Streak -->
-  <img src="https://streak-stats.demolab.com?user=TechWithAkash&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+</details>
 
-</div>
+<!-- ═════════════════════════ EXPERIENCE ═════════════════════════ -->
+<h2 align="center">💼 Experience</h2>
 
----
+<table>
+<tr>
+<td width="22%" valign="top" align="center">
+<img src="https://img.shields.io/badge/Jan–Aug%202024-6366F1?style=flat-square" /><br/>
+<sub>Remote</sub>
+</td>
+<td valign="top">
 
-### 📈 Contribution Activity
+**Full-Stack Developer** · AIBI Street Pvt. Ltd.
 
-<div align="center">
+- Built and deployed **Memewarzz**, a social platform for **15K+ users** — Next.js, Node, MongoDB, **99.9% uptime**
+- Re-designed MongoDB schemas & indexes on 10M+ docs: **800 ms → 480 ms** (−40%)
+- Shipped **10+ production REST APIs** with JWT, rate-limiting and structured error handling
+- Agile team of 4 — CI/CD, code reviews, sprint planning
 
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TechWithAkash&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=38bdae&point=f778ba&area=true&hide_border=true"/>
+</td>
+</tr>
+<tr>
+<td width="22%" valign="top" align="center">
+<img src="https://img.shields.io/badge/Jul–Aug%202023-6366F1?style=flat-square" /><br/>
+<sub>On-site</sub>
+</td>
+<td valign="top">
 
-</div>
+**Software Development Intern** · Sumago Infotech Pvt. Ltd.
 
+- 6-week industrial training on LMS architecture and the SDLC
+- Testing, debugging and requirements analysis — **+25% code quality** under senior mentorship
+
+</td>
+</tr>
+</table>
+
+<!-- ═════════════════════════ AWARDS ═════════════════════════ -->
+<h2 align="center">🏆 Wins & Recognition</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🥇%20SIH%202025-Grand%20Finalist%20·%20Top%205-F5B700?style=for-the-badge&labelColor=0D1117" /><br/>
+  <img src="https://img.shields.io/badge/🥇%20CodeByte%202.0-1st%20Place%20·%20Tech%20Zephyr-F5B700?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/🥇%20PitchCraft%202025-1st%20of%2050%2B-F5B700?style=for-the-badge&labelColor=0D1117" /><br/>
+  <img src="https://img.shields.io/badge/🎖️%20Anveshana%202025-Top%2040%20of%201300%2B-6366F1?style=for-the-badge&labelColor=0D1117" />
+</p>
+
+<!-- ═════════════════════════ STATS ═════════════════════════ -->
+<h2 align="center">📊 GitHub at a glance</h2>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TechWithAkash&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=6366F1&text_color=C9D1D9&ring_color=22D3EE&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechWithAkash&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TechWithAkash&hide_border=true&background=0D1117&ring=22D3EE&fire=6366F1&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=30363D" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TechWithAkash&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=6366F1&area=true&area_color=6366F1&hide_border=true&title_color=22D3EE" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TechWithAkash/TechWithAkash/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TechWithAkash/TechWithAkash/output/snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/TechWithAkash/TechWithAkash/output/snake-dark.svg" />
+  </picture>
+</p>
+
+<!-- ═════════════════════════ EDUCATION ═════════════════════════ -->
+<details>
+<summary><h2>🎓 Education & Certifications</h2></summary>
+
+| | Where | When | Score |
+|---|---|---|---|
+| 🎓 **BE, Computer Engineering** | SIES Graduate School of Technology, Navi Mumbai | 2024 – present | **9.0** CGPA |
+| 📘 **Diploma, Computer Engineering** | Government Polytechnic Thane | 2022 – 2024 | **90%** |
+
+**Certifications** — Machine Learning Specialization & Python for Data Science (365DataScience) · Complete AI/ML/DL/NLP Bootcamp (Udemy) · Data Science Master 2.0 (PW Skills)
+
+</details>
+
+<!-- ═════════════════════════ FOOTER ═════════════════════════ -->
 <br/>
 
-<div align="center">
+<p align="center">
+  <b>Let's build something that matters.</b><br/>
+  <sub>Open to SDE & AI Engineering internships and full-time roles — the fastest way to reach me is <a href="mailto:vishwakarmaakashav17@gmail.com">email</a> or <a href="https://linkedin.com/in/akash-vishwakarma-42b0b6267">LinkedIn</a>.</sub>
+</p>
 
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=TechWithAkash&theme=onestar&no-frame=true&margin-w=10&margin-h=10&column=7"/>
-
-</div>
-
----
-
-<div align="center">
-
-  <!-- Profile Views (Feels Real-Time) -->
-  <img src="https://komarev.com/ghpvc/?username=TechWithAkash&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
-</div>
-
-## 🎓 Education & Certifications
-
-### **Bachelor of Engineering in Computer Engineering**
-**SIES Graduate School of Technology, Navi Mumbai** | 2024 – Present  
-**CGPA:** 9.0/10.0
-
-### **Diploma in Computer Engineering**
-**Government Polytechnic Thane** | 2022 – 2024  
-**Percentage:** 90%
-
-### **Professional Certifications**
-- **Machine Learning Specialization** - 365DataScience
-- **Python for Data Science** - 365DataScience
-- **Complete AI/ML/DL/NLP Bootcamp** - Udemy
-- **Data Science Master 2.0** - PwSkills
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
-</div>
-
-## 📫 Get In Touch
-
-<div align="center">
-
-**Open to Software Engineering Internships and Full-Time Opportunities**
-
-I'm passionate about building scalable solutions and solving complex problems through technology. Whether it's full-stack development, AI/ML engineering, or system design—I'm always eager to collaborate on innovative projects.
-
-📧 **Email:** vishwakarmaakashav17@gmail.com  
-💼 **LinkedIn:** [Akash Vishwakarma](https://linkedin.com/in/akash-vishwakarma-42b0b6267)  
-💻 **GitHub:** [@TechWithAkash](https://github.com/TechWithAkash)  
-🏆 **LeetCode:** [Profile](https://leetcode.com/u/vishwakarmaakashav17/)
-
-</div>
-
----
-
-<div align="center">
-
----
-
-### 💭 Developer Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
----
-
-### 💡 *"First, solve the problem. Then, write the code."* – John Johnson
-
-**⭐ If my work resonates with you, consider starring the repositories!**  
-**🤝 Open to collaborations, internships, and exciting opportunities**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=footer" alt="Footer Wave"/>
-
-</div>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22D3EE,50:3B82F6,100:6366F1" />
+</p>
