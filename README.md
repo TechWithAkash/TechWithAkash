@@ -1,3 +1,7 @@
+<h1 align="center">Hi, I'm Akash 👋</h1>
+
+<p align="center">AI Full-Stack Developer · I build apps and AI tools people actually use</p>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/neofetch_dark.svg">
