@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-label="Akash Vishwakarma — AI Full-Stack Developer">
+  <defs>
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="600" y2="0" gradientUnits="userSpaceOnUse" spreadMethod="reflect">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="0.45" stop-color="#6366F1"/>
+      <stop offset="1" stop-color="#C084FC"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="0 0;600 0;0 0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="a1"><stop offset="0" stop-color="#6366F1" stop-opacity=".55"/><stop offset="1" stop-color="#6366F1" stop-opacity="0"/></radialGradient>
+    <radialGradient id="a2"><stop offset="0" stop-color="#22D3EE" stop-opacity=".4"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+    <radialGradient id="a3"><stop offset="0" stop-color="#A855F7" stop-opacity=".35"/><stop offset="1" stop-color="#A855F7" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#FFFFFF" stroke-opacity=".045"/>
+    </pattern>
+    <linearGradient id="fadeV" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity="1"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="gridMask"><rect width="1200" height="460" fill="url(#fadeV)"/></mask>
+    <clipPath id="card"><rect width="1200" height="460" rx="22"/></clipPath>
+    <linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity=".7"/><stop offset=".5" stop-color="#6366F1" stop-opacity=".25"/><stop offset="1" stop-color="#A855F7" stop-opacity=".7"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0"/><stop offset=".5" stop-color="#22D3EE" stop-opacity=".07"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .sans{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif}
+    .mono{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}
+
+    /* aurora drift */
+    .b1{animation:d1 14s ease-in-out infinite alternate}
+    .b2{animation:d2 18s ease-in-out infinite alternate}
+    .b3{animation:d3 16s ease-in-out infinite alternate}
+    @keyframes d1{to{transform:translate(160px,60px)}}
+    @keyframes d2{to{transform:translate(-200px,-40px)}}
+    @keyframes d3{to{transform:translate(120px,-70px)}}
+
+    /* sparkles */
+    .s{fill:#E0F2FE;animation:tw 3s ease-in-out infinite}
+    @keyframes tw{0%,100%{opacity:.1}50%{opacity:.9}}
+
+    /* intro */
+    .rise{opacity:0;animation:rise .8s cubic-bezier(.2,.8,.2,1) forwards}
+    @keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+
+    /* name: outline draws, then gradient fills in */
+    .name{fill:url(#nameGrad);fill-opacity:0;stroke:#22D3EE;stroke-width:1.4;stroke-dasharray:900;stroke-dashoffset:900;
+          animation:draw 2.2s ease-out forwards, fill .9s ease-out forwards, unstroke .6s ease forwards}
+    .n2{animation-delay:.35s,1.95s,2.6s}
+    .n1{animation-delay:0s,1.6s,2.25s}
+    @keyframes draw{to{stroke-dashoffset:0}}
+    @keyframes fill{to{fill-opacity:1}}
+    @keyframes unstroke{to{stroke-opacity:0}}
+
+    /* role rotator */
+    .role{opacity:0;animation:role 12s infinite}
+    .r2{animation-delay:3s}.r3{animation-delay:6s}.r4{animation-delay:9s}
+    @keyframes role{0%{opacity:0;transform:translateY(10px)}4%,22%{opacity:1;transform:none}26%,100%{opacity:0;transform:translateY(-10px)}}
+
+    /* pulse dot */
+    .pulse{animation:pulse 1.8s ease-out infinite;transform-box:fill-box;transform-origin:center}
+    @keyframes pulse{from{opacity:.7;transform:scale(1)}to{opacity:0;transform:scale(2.6)}}
+
+    /* terminal typing */
+    .ln{opacity:0;clip-path:inset(0 100% 0 0);animation:type .7s steps(28,end) forwards}
+    @keyframes type{0%{opacity:1;clip-path:inset(0 100% 0 0)}100%{opacity:1;clip-path:inset(0 0 0 0)}}
+    .out{opacity:0;animation:show .35s ease forwards}
+    @keyframes show{to{opacity:1}}
+    .cur{animation:blink 1s steps(1) infinite}
+    @keyframes blink{50%{opacity:0}}
+    .scan{animation:scan 5s linear infinite}
+    @keyframes scan{from{transform:translateY(-60px)}to{transform:translateY(340px)}}
+  </style>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="460" fill="#090D16"/>
+    <ellipse class="b1" cx="220" cy="120" rx="380" ry="260" fill="url(#a1)"/>
+    <ellipse class="b2" cx="980" cy="360" rx="420" ry="260" fill="url(#a2)"/>
+    <ellipse class="b3" cx="620" cy="460" rx="360" ry="220" fill="url(#a3)"/>
+    <rect width="1200" height="460" fill="url(#grid)" mask="url(#gridMask)"/>
+
+    <circle class="s" cx="560" cy="60"  r="1.6"/>
+    <circle class="s" cx="610" cy="210" r="1.2" style="animation-delay:.6s"/>
+    <circle class="s" cx="40"  cy="400" r="1.4" style="animation-delay:1.2s"/>
+    <circle class="s" cx="1150" cy="40" r="1.6" style="animation-delay:1.8s"/>
+    <circle class="s" cx="500" cy="420" r="1.2" style="animation-delay:2.2s"/>
+    <circle class="s" cx="340" cy="38"  r="1.3" style="animation-delay:.3s"/>
+    <circle class="s" cx="1160" cy="430" r="1.3" style="animation-delay:1.5s"/>
+    <circle class="s" cx="640" cy="330" r="1.1" style="animation-delay:2.6s"/>
+  </g>
+  <rect x=".75" y=".75" width="1198.5" height="458.5" rx="21.5" fill="none" stroke="url(#border)" stroke-width="1.5"/>
+
+  <!-- ───────── LEFT: identity ───────── -->
+  <g class="rise" style="animation-delay:.1s">
+    <rect x="64" y="76" width="300" height="32" rx="16" fill="#22D3EE" fill-opacity=".08" stroke="#22D3EE" stroke-opacity=".35"/>
+    <circle class="pulse" cx="83" cy="92" r="5" fill="#34D399"/>
+    <circle cx="83" cy="92" r="5" fill="#34D399"/>
+    <text x="98" y="97" class="mono" font-size="13" font-weight="600" fill="#A5F3FC" letter-spacing="1.2">OPEN TO SDE &amp; AI ROLES</text>
+  </g>
+
+  <text x="64" y="156" class="mono rise" font-size="18" fill="#8B949E" style="animation-delay:.25s">Hi there, I'm</text>
+  <text x="60" y="226" class="sans name n1" font-size="76" font-weight="800" letter-spacing="-1.5">Akash</text>
+  <text x="60" y="304" class="sans name n2" font-size="76" font-weight="800" letter-spacing="-1.5">Vishwakarma</text>
+
+  <g class="mono" font-size="21" font-weight="600">
+    <text x="64" y="350" fill="#6366F1">&gt;</text>
+    <g fill="#E6EDF3">
+      <text x="86" y="350" class="role r1">AI Full-Stack Developer</text>
+      <text x="86" y="350" class="role r2">Agentic AI &amp; RAG Builder</text>
+      <text x="86" y="350" class="role r3">SIH 2025 Grand Finalist</text>
+      <text x="86" y="350" class="role r4">8× Hackathon Winner</text>
+    </g>
+  </g>
+
+  <g class="sans rise" font-size="14" font-weight="600" style="animation-delay:2.8s">
+    <rect x="64"  y="380" width="150" height="34" rx="10" fill="#FFFFFF" fill-opacity=".05" stroke="#FFFFFF" stroke-opacity=".12"/>
+    <text x="80"  y="402" fill="#22D3EE">18K+</text><text x="122" y="402" fill="#C9D1D9">students</text>
+    <rect x="224" y="380" width="148" height="34" rx="10" fill="#FFFFFF" fill-opacity=".05" stroke="#FFFFFF" stroke-opacity=".12"/>
+    <text x="240" y="402" fill="#F5B700">8×</text><text x="264" y="402" fill="#C9D1D9">winner</text>
+    <rect x="382" y="380" width="160" height="34" rx="10" fill="#FFFFFF" fill-opacity=".05" stroke="#FFFFFF" stroke-opacity=".12"/>
+    <text x="398" y="402" fill="#A78BFA">Top 5</text><text x="444" y="402" fill="#C9D1D9">at SIH '25</text>
+  </g>
+
+  <!-- ───────── RIGHT: terminal ───────── -->
+  <g class="rise" style="animation-delay:.4s">
+    <rect x="652" y="58" width="490" height="346" rx="14" fill="#0D1117" fill-opacity=".88" stroke="#30363D"/>
+    <path d="M652 72a14 14 0 0 1 14-14h462a14 14 0 0 1 14 14v22H652z" fill="#161B22"/>
+    <line x1="652" y1="94" x2="1142" y2="94" stroke="#30363D"/>
+    <circle cx="676" cy="76" r="6" fill="#FF5F57"/><circle cx="696" cy="76" r="6" fill="#FEBC2E"/><circle cx="716" cy="76" r="6" fill="#28C840"/>
+    <text x="897" y="81" text-anchor="middle" class="mono" font-size="12.5" fill="#8B949E">akash@techwithakash: ~</text>
+    <g clip-path="url(#term)"><rect class="scan" x="653" y="95" width="488" height="60" fill="url(#scan)"/></g>
+  </g>
+  <clipPath id="term"><rect x="653" y="95" width="488" height="308" rx="13"/></clipPath>
+
+  <g class="mono" font-size="15">
+    <text x="676" y="128" class="ln" style="animation-delay:1.0s"><tspan fill="#34D399">➜</tspan><tspan fill="#22D3EE"> ~ </tspan><tspan fill="#E6EDF3">whoami</tspan></text>
+    <text x="676" y="152" class="out" fill="#C9D1D9" style="animation-delay:1.8s">AI Full-Stack Dev · Mumbai, IN · BE CE '27</text>
+
+    <text x="676" y="186" class="ln" style="animation-delay:2.3s"><tspan fill="#34D399">➜</tspan><tspan fill="#22D3EE"> ~ </tspan><tspan fill="#E6EDF3">cat now.md</tspan></text>
+    <text x="676" y="210" class="out" fill="#C9D1D9" style="animation-delay:3.1s">AI intern <tspan fill="#A78BFA">@Brainheaters</tspan> · 18,000+ students</text>
+
+    <text x="676" y="244" class="ln" style="animation-delay:3.6s"><tspan fill="#34D399">➜</tspan><tspan fill="#22D3EE"> ~ </tspan><tspan fill="#E6EDF3">ls ./shipped</tspan></text>
+    <text x="676" y="268" class="out" xml:space="preserve" style="animation-delay:4.4s"><tspan fill="#22D3EE">WealthWise</tspan>  <tspan fill="#22D3EE">DesignRip</tspan>  <tspan fill="#22D3EE">PDFZippy</tspan>  <tspan fill="#22D3EE">NITI.AI</tspan></text>
+
+    <text x="676" y="302" class="ln" style="animation-delay:4.9s"><tspan fill="#34D399">➜</tspan><tspan fill="#22D3EE"> ~ </tspan><tspan fill="#E6EDF3">echo $STACK</tspan></text>
+    <text x="676" y="326" class="out" fill="#C9D1D9" style="animation-delay:5.7s">Next.js · FastAPI · LangGraph · RAG</text>
+
+    <g class="out" style="animation-delay:6.1s">
+      <text x="676" y="364"><tspan fill="#34D399">➜</tspan><tspan fill="#22D3EE"> ~ </tspan></text>
+      <rect class="cur" x="710" y="351" width="9" height="17" fill="#22D3EE"/>
+    </g>
+  </g>
+</svg>
