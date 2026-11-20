@@ -1,4 +1,10 @@
-<h1 align="center">Hi, I'm Akash 👋</h1>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/greeting_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/greeting_light.svg">
+    <img src="./assets/greeting_dark.svg" height="60" alt="Hi, I'm Akash" />
+  </picture>
+</p>
 
 <p align="center">AI Full-Stack Developer · I build apps and AI tools people actually use</p>
 
