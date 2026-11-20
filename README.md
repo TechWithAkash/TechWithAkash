@@ -19,6 +19,11 @@
   <a href="mailto:vishwakarmaakashav17@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=22D3EE" /></a>
 </p>
 
+<!-- ═════════════════════════ NEOFETCH CARD ═════════════════════════ -->
+<p align="center">
+  <img src="./assets/neofetch.svg" width="100%" alt="Terminal-style profile card: ASCII portrait of Akash Vishwakarma with role, stack, shipped products, impact and contact details" />
+</p>
+
 <br/>
 
 <!-- ═════════════════════════ ABOUT ═════════════════════════ -->
